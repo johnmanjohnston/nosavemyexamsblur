@@ -1,4 +1,4 @@
-# nosavemyexams blur
+# nosavemyexamsblur
 get rid of SaveMyExams' notes blur
 
 # Install
