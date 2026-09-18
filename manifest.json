@@ -1,0 +1,14 @@
+{
+  "name": "nosavemyexamsblur",
+  "description": "get rid of SaveMyExams' notes blur",
+  "version": "0.1",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "js": ["index.js"],
+      "matches": [
+        "https://www.savemyexams.com/*"
+      ]
+    }
+  ]
+}
