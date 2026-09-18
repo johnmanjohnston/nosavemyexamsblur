@@ -18,5 +18,4 @@ remember you unzipped a file? after clicking "Load unpacked" select the folder y
 you'll then see the extension show up <br />
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/5147afc6-1503-4bfa-a8d7-9a91d1b161a6" />
 
-<br /> <br />
-if you use a different browser, good luck
+you might need to refresh any existing SaveMyExams tabs for this to work
