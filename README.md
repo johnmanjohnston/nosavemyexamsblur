@@ -21,4 +21,4 @@ you'll then see the extension show up <br />
 you might need to refresh any existing SaveMyExams tabs for this to work
 
 
-if you have any problems let me know, and i'm happy to help
+if you have any problems let me know, and i'm happy to help!
