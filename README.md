@@ -19,3 +19,6 @@ you'll then see the extension show up <br />
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/5147afc6-1503-4bfa-a8d7-9a91d1b161a6" />
 
 you might need to refresh any existing SaveMyExams tabs for this to work
+
+
+if you have any problems let me know, and i'm happy to help
